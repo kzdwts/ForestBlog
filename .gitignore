@@ -1,0 +1,29 @@
+# 编译文件
+*.class
+
+# 日志文件
+*.log
+
+# BlueJ files
+*.ctxt
+
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+
+# 包文件
+*.jar
+*.war
+*.nar
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+#过滤文件夹target,.idea
+/target
+/.idea
+/out
+*.iml
+
+
+
